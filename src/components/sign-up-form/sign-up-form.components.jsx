@@ -7,6 +7,7 @@ import {
 
 import "./sign-up.styles.scss";
 import Button from "../button/button.component";
+
 const defaultFormFields = {
   displayName: "",
   email: "",
